@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { HelloWorld } from "corys-react-components";
+import { HelloWorld } from "@housecor/react-components";
 
 export default function Home() {
   return (
